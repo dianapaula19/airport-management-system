@@ -1,5 +1,7 @@
 # Airport management system
 
+> **Original version:** this README and some fixes were added in 2026. To see the project exactly as it was first built, browse commit [`73e40d6`](https://github.com/dianapaula19/airport-management-system/tree/73e40d6370bfc1121f4d1a6cdb13115677a7cb0c) (2021-10-03).
+
 A web application for managing an airport network: airports, cities, airlines, aircraft,
 flights, arrivals and departures, departments, employees and airport shops. Built for the
 *Databases* course at the University of Bucharest.
